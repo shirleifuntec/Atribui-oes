@@ -1,2 +1,2 @@
-# Atribui-oes
+# Atribuicoes
 Repositorio para exercicios de encadeamento
